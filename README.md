@@ -1,4 +1,7 @@
-# 소통에 특화된 협업툴, worksB
+<div align="center">
+  <h1>회사생활의 시작, worksB 로부터</h1>
+  소통의 기능을 추가한 협업툴
+</div>
 <h2>Stacks</h2>
 
 <h3>Environment</h3>
