@@ -9,7 +9,7 @@
 <h3>Development</h3>
 <p>JAVA, SPRING, JAVASCRIPT, JQUERY, ORACLE</p>
 <h3>Server</h3>
-<p>Amazon EC2</p>
+<p>Amazon EC2(Ubuntu)</p>
 <hr>
 <h3>Feature</h3>
 <p>사내게시판(카풀,공지)</p>
