@@ -5,7 +5,7 @@
 <h2>  Stacks</h2>
 
 <h3>Environment</h3>
-<p>VISUAL STUDIO CODE, GIT, ECLIPSE</p>
+<p>VISUAL STUDIO CODE, GIT, ECLIPSE, MOBAXTERM, WINSCP</p>
 <h3>Development</h3>
 <p>JAVA, SPRING, JAVASCRIPT, JQUERY, ORACLE</p>
 <h3>Server</h3>
