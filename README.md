@@ -7,7 +7,7 @@
 <h3>Environment</h3>
 <p>VISUAL STUDIO CODE, GIT, ECLIPSE, MOBAXTERM, WINSCP</p>
 <h3>Development</h3>
-<p>JAVA, SPRING, JAVASCRIPT, JQUERY, ORACLE</p>
+<p>JAVA11, SPRING, JAVASCRIPT, JQUERY, ORACLEDB, MAVEN, APACHETOMCAT, JSP, MyBatis</p>
 <h3>Server</h3>
 <p>Amazon EC2(Ubuntu)</p>
 <hr>
